@@ -47,8 +47,7 @@ flutter:
     platforms:
       android:
         default_package: alipay_kit_android
-  #   ios:
-  #     default_package: alipay_kit_ios
+        pluginClass: AlipayKitPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
